@@ -1,2 +1,10 @@
-Języki Programowania 4 | Jędrzej Pawłowski 13816,
-Bardzo Przepraszam za bałagan w numeracji.
+Języki Programowania 4
+
+Autor: Jędrzej Pawłowski | Nr albumu: 13816
+
+Repozytorium zawiera rozwiązania 8 zadań (ćwiczeń) realizowanych w ramach przedmiotu Języki Programowania 4.
+Zadania zostały wykonane w środowisku Microsoft Excel (VBA).
+
+Przepraszam za wcześniejszy bałagan w numeracji plików.
+Wszystkie ćwiczenia zostały uporządkowane i znajdują się w folderze
+„Uporządkowane Wszystkie Ćwiczenia”.
