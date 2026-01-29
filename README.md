@@ -8,3 +8,8 @@ Zadania zostały wykonane w środowisku Microsoft Excel (VBA).
 Przepraszam za wcześniejszy bałagan w numeracji plików.
 Wszystkie ćwiczenia zostały uporządkowane i znajdują się w folderze
 „Uporządkowane Wszystkie Ćwiczenia”.
+
+
+
+Repozytorium z ćwiczeniami z przedmiotu Big Data:
+👉 https://github.com/Jedrek11/Big-Data/tree/main
